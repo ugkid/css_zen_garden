@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(45deg, #e4efe9 0%, #93a5cf 100%);
+}
+  
+a {
+    color: rgb(0, 0, 0);
+}
+
+
+
+h1 {
+    writing-mode: vertical-lr; 
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    font-size: 5em;
+    line-height: 6rem;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0em;
+    margin: 25px 50px 75px 50px;
+}
+
+h2 {
+    display: inline-block
+    position: absolute;
+    top: 100px;
+    left: 300px;
+}
+
+h3 {
+    font-size: 5em;
+    line-height: 6rem;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0em;
+}
+.summary {
+    position: absolute;
+    left: 300px;
+}
